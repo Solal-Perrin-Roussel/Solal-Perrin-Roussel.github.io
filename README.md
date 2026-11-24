@@ -1,6 +1,8 @@
+https://solal-perrin-roussel.github.io/
+
 Page perso de Solal Perrin-Roussel. Le document principal est index.html, écrit en html. Les autres documents sont des annexes.
 
-La page est disponible au lien suivant :
+La page est disponible au lien ci-dessus.
 
-https://solal-perrin-roussel.github.io/
+
 
